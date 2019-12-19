@@ -1,0 +1,80 @@
+{
+    "name": "Team SyndicatePlus",
+    "description": "At Syndy we're on a mission to simplify the way brands and retailers work together to share information about products.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1481-team-syndicateplus.jpg",
+    "tags": [
+        "commerce",
+        "consumers",
+        "discounts",
+        "have api",
+        "meetings",
+        "shopping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/team-syndicateplus\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Team SyndicatePlus",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1481-team-syndicateplus.jpg",
+            "humanURL": "http:\/\/www.syndicateplus.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/team-syndicateplus-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/team-syndicateplus-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.syndicateplus.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/syndicate-plus"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/syndicate-plus"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.syndicateplus.com\/developers"
+        },
+        {
+            "type": "Email",
+            "url": "info@syndy.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@syndicateplus.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/SyndicatePlus"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/syndicateplus1"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/MeetSyndy"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.syndicateplus.com\/"
+        }
+    ]
+}
